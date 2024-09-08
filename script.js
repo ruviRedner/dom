@@ -1,0 +1,1 @@
+window.prompt("Do you think is ruby the best?")
