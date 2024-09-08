@@ -72,3 +72,13 @@ qube.addEventListener("mousemove",e=>{
 //detect eroow keys
 
 //play with 
+
+const fn = "ruby"
+const age = 34
+
+const ruby = {
+    fn,
+    age
+}
+console.log(ruby);
+
