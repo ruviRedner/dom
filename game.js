@@ -82,3 +82,20 @@ const ruby = {
 }
 console.log(ruby);
 
+let full_name = "reuven"
+const redner ={
+    full_name:"ruby",
+    a: function(){
+        console.log(redner.full_name);
+    },
+    b:()=>{
+        console.log(full_name);
+        
+    }    
+        
+
+    
+        
+    
+} 
+
